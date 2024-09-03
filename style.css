@@ -1,0 +1,40 @@
+.container{
+    width: 1500px;
+    height: auto;
+    background-color: none;
+    border-style: solid;
+    border-color: #00acee;
+    border-radius: 15px;
+    border-width: thin;
+}
+.topnav{
+    display: inline-flex;
+    background-color: #00acee;
+    width: 1500px;
+    height: 150px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white ;
+}
+.texto{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(39, 39, 39);
+}
+p{
+text-align: left;
+width: 900px;
+}
+button{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
